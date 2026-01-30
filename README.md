@@ -13,7 +13,7 @@ A real-time, multi-user drawing application built with **Node.js**, **Socket.io*
 
 1.  **Clone the repository**
     ```bash
-    git clone <your-repo-link>
+    git clone https://github.com/ShivaPallavi09/Collaborative-Canvas.git
     cd collaborative-canvas
     ```
 
